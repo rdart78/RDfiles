@@ -2,11 +2,14 @@
 
 # README
 
-```
+
 Расширение для браузера для печати или экспорта в PDF файлов MD:
-GitHub Markdown Printer
+
+**GitHub Markdown Printer**
+
 https://chromewebstore.google.com/detail/github-markdown-printer/fehpdlpmcegfpbkgcnaleindodeegapk
-```
+
+---
 
 ## Ссылки на важные сайты
 
