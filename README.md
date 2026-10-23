@@ -1,4 +1,6 @@
 # RDfiles
+RDart_logo small.png
+
 
 Расширение для браузера для печати или экспорта в PDF файлов MD:
 GitHub Markdown Printer
