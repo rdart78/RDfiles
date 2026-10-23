@@ -1,4 +1,4 @@
-<img width="154" height="103" alt="RDart_logo small" src="https://github.com/rdart78/RDfiles/blob/main/RDart_logo%20small.png?raw=true" /> 
+<img src="RDart_logo%20small.png" /> 
 
 # README
 
