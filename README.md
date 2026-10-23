@@ -1,11 +1,12 @@
-# RDfiles
-RDart_logo small.png
+<img width="154" height="103" alt="RDart_logo small" src="https://github.com/rdart78/RDfiles/blob/main/RDart_logo%20small.png?raw=true" /> 
 
+# README
 
+```
 Расширение для браузера для печати или экспорта в PDF файлов MD:
 GitHub Markdown Printer
 https://chromewebstore.google.com/detail/github-markdown-printer/fehpdlpmcegfpbkgcnaleindodeegapk
-
+```
 
 ## Ссылки на важные сайты
 
