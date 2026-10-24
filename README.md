@@ -19,4 +19,5 @@
 - [Посмотреть время работы компьютера после перезагрузки](https://remontka.com/miniinstruktions-windows-uptime/?ysclid=mv636uj6jm497882267)
 - [Блог Юли на Дзене](https://dzen.ru/skylover)
 - [Создание диаграмм в Markdown](https://habr.com/ru/articles/652867/)
+- [Шпаргалка по синтаксису Markdown с примерами]([https://habr.com/ru/articles/652867/](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/?ysclid=mvm0i8odjo906886465))
 
