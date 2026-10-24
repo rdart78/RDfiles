@@ -18,4 +18,5 @@
 - [Как убрать пароль при входе в Windows 10](https://remontka.pro/login-password-windows-10-disable/)
 - [Посмотреть время работы компьютера после перезагрузки](https://remontka.com/miniinstruktions-windows-uptime/?ysclid=mv636uj6jm497882267)
 - [Блог Юли на Дзене](https://dzen.ru/skylover)
+- [Создание диаграмм в Markdown](https://habr.com/ru/articles/652867/)
 
